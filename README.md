@@ -4,8 +4,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Trxterek/Trxterek/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
